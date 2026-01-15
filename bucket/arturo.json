@@ -1,0 +1,15 @@
+{
+  "version": "0.10.0",
+  "description": "Arturo programming language",
+  "homepage": "https://arturo-lang.io/",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64.zip",
+      "hash": "sha256:77B724D37FC70D3FB5D8D040B3C8EAD103CF8323C1C32A650CCDBA4465DF6D86"
+    }
+  },
+  "bin": [
+    "arturo.exe"
+  ]
+}
