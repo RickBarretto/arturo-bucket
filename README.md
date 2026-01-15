@@ -1,5 +1,5 @@
 <h1 align="center">
-    Arturo for VS Code
+    Arturo's Bucket for Scoop
 </h1>
 
 <p align="center">
