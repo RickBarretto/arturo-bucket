@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/RickBarretto/arturo-bucket?style=flat-square">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/arturo-lang/scoop-bucket?style=flat-square">
 </p>
 
 ## Prerequisites
@@ -36,7 +36,7 @@
 **Add this bucket**
 
 ```powershell
-scoop bucket add arturo https://github.com/RickBarretto/arturo-bucket
+scoop bucket add arturo https://github.com/arturo-lang/scoop-bucket
 ```
 
 **Installing**
